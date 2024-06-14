@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\Rehber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDCC835-891B-401C-9874-7DF63D57361A}|Rehber\\Rehber.csproj|c:\\users\\iskit\\desktop\\udemy_project\\rehber\\rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEDCC835-891B-401C-9874-7DF63D57361A}|Rehber\\Rehber.csproj|solutionrelative:rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEDCC835-891B-401C-9874-7DF63D57361A}|Rehber\\Rehber.csproj|c:\\users\\iskit\\desktop\\udemy_project\\rehber\\rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEDCC835-891B-401C-9874-7DF63D57361A}|Rehber\\Rehber.csproj|solutionrelative:rehber\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\Rehber\\Rehber\\Form1.cs",
+              "RelativeDocumentMoniker": "Rehber\\Form1.cs",
+              "ToolTip": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\Rehber\\Rehber\\Form1.cs",
+              "RelativeToolTip": "Rehber\\Form1.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAIAywFYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:14:19.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\Rehber\\Rehber\\Form1.cs",
+              "RelativeDocumentMoniker": "Rehber\\Form1.cs",
+              "ToolTip": "C:\\Users\\iskit\\Desktop\\Udemy_Project\\Rehber\\Rehber\\Form1.cs [Design]",
+              "RelativeToolTip": "Rehber\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:12:59.877Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
